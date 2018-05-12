@@ -1,0 +1,34 @@
+_repo: Freshwater-Sponges-Hydroids--amp--Polyzoa_36504
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Annandale, Nelson
+    aliases:
+    - Annandale, N. (Nelson)
+    - Annandale, Thomas Nelson
+    birthdate: 1876
+    deathdate: 1924
+    gutenberg_agent_id: '38309'
+    url: http://www.gutenberg.org/2009/agents/38309
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild
+gutenberg_issued: '2011-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Freshwater animals -- Sri Lanka'
+- !lcsh 'Freshwater animals -- India'
+- !lcsh 'Freshwater animals -- Burma'
+title: Freshwater Sponges, Hydroids & Polyzoa
+url: http://www.gutenberg.org/ebooks/36504
